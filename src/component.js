@@ -1,6 +1,6 @@
 const component = () =>{
     const element = document.createElement('h2');
-    element.innerHTML = "My personal website";
+    element.innerHTML = "My personal website TEST TEST TEST";
     return element;
 }
 
