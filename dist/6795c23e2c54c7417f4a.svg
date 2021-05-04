@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="test drawing 1.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="38.486812"
+       y="52.384827"
+       width="111.71866"
+       height="40.090429"
+       id="rect849" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="9.5546832"
+     inkscape:cy="545.82375"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#5fdaac;fill-rule:evenodd;stroke-width:0.264583;fill-opacity:0.51000011"
+       id="path10"
+       cx="55.057522"
+       cy="89.535286"
+       rx="29.934185"
+       ry="25.925144" />
+    <rect
+       style="fill:#f4fb97;fill-opacity:0.99999982;stroke-width:0.264583"
+       id="rect835"
+       width="103.70058"
+       height="62.541069"
+       x="69.490074"
+       y="39.021351" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:#e489ff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:1;fill-opacity:1"
+       id="path837"
+       sodipodi:cx="120.27129"
+       sodipodi:cy="123.47852"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="35.957439"
+       sodipodi:argument="-16.440779"
+       sodipodi:t0="0"
+       d="m 120.27129,123.47852 c -1.34004,1.20605 -2.28685,-1.21133 -2.00452,-2.22724 0.7651,-2.75305 4.35668,-3.01307 6.45901,-1.7818 3.76059,2.20244 3.94027,7.4172 1.55908,10.69078 -3.49449,4.80411 -10.52016,4.89748 -14.92255,1.33635 -5.86769,-4.74642 -5.86765,-13.6383 -1.11363,-19.15431 5.98245,-6.94134 16.76372,-6.84455 23.38609,-0.89091 8.02057,7.21065 7.82533,19.89323 0.66818,27.61785 -8.43445,9.1032 -23.0253,8.80858 -31.84962,0.44546 -10.188029,-9.65555 -9.793454,-26.15907 -0.22274,-36.08139 10.87486,-11.274361 29.29405,-10.77947 40.31316,-1e-5 12.36178,12.09292 11.76632,32.42989 -0.22271,44.54492 -13.3101,13.44999 -35.56639,12.7538 -48.776692,-0.44543" />
+    <text
+       xml:space="preserve"
+       id="text847"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect849);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         x="38.486328"
+         y="62.040231"><tspan>Welcome to the 80's</tspan></tspan></text>
+  </g>
+</svg>
