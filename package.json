@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack serve --mode development",
-    "build": "webpack --mode production && cpy 'src/*.html' './docs/' --cwd=src --parents",
+    "build": "webpack --mode production && cpy **/*.html ../docs/ --cwd=src --parents",
     "deploy": "npm run build && prodgitpush.sh"
   },
   "repository": {
@@ -28,6 +28,7 @@
     "@babel/core": "^7.14.0",
     "@babel/preset-env": "^7.14.0",
     "babel-loader": "^8.2.2",
+    "cpy-cli": "^3.1.1",
     "css-loader": "^5.2.4",
     "html-webpack-plugin": "^5.3.1",
     "style-loader": "^2.0.0",
