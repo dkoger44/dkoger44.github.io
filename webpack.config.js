@@ -14,11 +14,6 @@ module.exports = {
         contentBase: "./dist",
         open: true
     },
-    plugins: [
-        new HtmlWebpackPlugin({
-            title: "Personal Website"
-        })
-    ],
     module: {
         rules: [
             {
