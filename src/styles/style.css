@@ -3,10 +3,14 @@
     color:#50555c;
 }
 #mainHeader{
-    color: snow;;
+    color: snow;
+    text-align: center;
 }
 .sectionHeader{
     text-align: center;
+    font-weight: bolder;
+    color: black;
+    font-size: xx-large;
 }
 .parallax1 {
     /* The image used */
