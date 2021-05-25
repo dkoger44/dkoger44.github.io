@@ -5,6 +5,9 @@
 #mainHeader{
     color: snow;;
 }
+.sectionHeader{
+    text-align: center;
+}
 .parallax1 {
     /* The image used */
     background-image: url("/src/images/img_parallax.jpg");
