@@ -1,8 +1,10 @@
 .normal {
     background: snow;
-    color:slategray;
+    color:#50555c;
 }
-
+#mainHeader{
+    color: snow;;
+}
 .parallax1 {
     /* The image used */
     background-image: url("/src/images/img_parallax.jpg");
