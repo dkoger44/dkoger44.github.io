@@ -6,6 +6,13 @@
     color: snow;
     text-align: center;
 }
+.companyImage{
+    border-radius: 8px;
+}
+.positionLocation{
+    color: black;
+    font-weight: bolder;
+}
 .sectionHeader{
     text-align: center;
     font-weight: bolder;
