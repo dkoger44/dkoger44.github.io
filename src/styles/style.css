@@ -1,4 +1,36 @@
-body {
-    background: coral;
-    color: snow;
+.normal {
+    background: snow;
+    color:slategray;
 }
+
+.parallax1 {
+    /* The image used */
+    background-image: url("/src/images/img_parallax.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax2 {
+      /* The image used */
+    background-image: url("/src/images/familyPhotoFB.jpg");
+  
+  /* Set a specific height */
+  min-height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  @media only screen and (max-device-width: 1366px) {
+      .parallax1 .parallax2 {
+          background-attachment: scroll;
+      }
+  }
